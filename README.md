@@ -12,10 +12,11 @@ I'm beginner software engineer who allways searching for new fresh ideas and int
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ##Find me here:
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/Freecoder33)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/freemaker33)
 
-![Stats]https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Hellfirelighter}&theme={dracula}
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Hellfirelighter}&theme={dracula})
 
 <!--
 **Hellfirelighter/Hellfirelighter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
