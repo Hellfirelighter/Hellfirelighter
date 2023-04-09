@@ -17,7 +17,7 @@ I'm beginner software engineer who allways searching for new fresh ideas and int
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/freemaker33)
 
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hellfirelighter&theme=cobalt)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hellfirelighter&theme=onedark)
 
 <!--
 **Hellfirelighter/Hellfirelighter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
